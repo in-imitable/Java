@@ -1,2 +1,2 @@
 # Java
-Programs creates by using Java Language
+Repository for Java codes and algos. Stars the repo too. 
